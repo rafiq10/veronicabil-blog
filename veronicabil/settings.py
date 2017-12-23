@@ -25,7 +25,7 @@ SECRET_KEY = '!&0-h@m4s-mlkprusdd@pjwbrb$1vu*t3u7!lvxoa@ct!+3c3b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['bilrafal.pythonanywhere.com']
 
 
 # Application definition
